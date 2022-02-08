@@ -1,0 +1,80 @@
+ K15342  cas1; CRISP-associated protein Cas1
+     K09951  cas2; CRISPR-associated protein Cas2
+   Type I CRISPR-Cas system
+     Type I signiture cas proteins
+       K07012  cas3; CRISPR-associated endonuclease/helicase Cas3 [EC:3.1.-.- 5.6.2.4]
+       K07475  cas3; CRISPR-associated endonuclease Cas3-HD [EC:3.1.-.-]
+     Subtype I-A factors
+       K19085  csa1; CRISPR-associated protein Csa1
+       K19074  csa2; CRISPR-associated protein Csa2
+       K07725  csa3; CRISPR-associated protein Csa3
+       K19086  csa4, cas8a2; CRISPR-associated protein Csa4
+       K19087  csa5; CRISPR-associated protein Csa5
+       K19088  cst1, cas8a; CRISPR-associated protein Cst1
+       K19075  cst2, cas7; CRISPR-associated protein Cst2
+       K07464  cas4; CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]
+       K19089  cas5a_b_c; CRISPR-associated protein Cas5a/b/c
+       K19090  cas5t; CRISPR-associated protein Cas5t
+       K19091  cas6; CRISPR-associated endoribonuclease Cas6 [EC:3.1.-.-]
+     Subtype I-B factors
+       K19114  csh1; CRISPR-associated protein Csh1
+       K19115  csh2; CRISPR-associated protein Csh2
+       K07464  cas4; CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]
+       K19116  cas5h; CRISPR-associated protein Cas5h
+     Subtype I-C factors
+       K19117  csd1, cas8c; CRISPR-associated protein Csd1
+       K19118  csd2, cas7; CRISPR-associated protein Csd2
+       K07464  cas4; CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]
+       K19119  cas5d; CRISPR-associated protein Cas5d
+     Subtype I-D factors
+       K19120  csc1; CRISPR-associated protein Csc1
+       K19121  csc2; CRISPR-associated protein Csc2
+       K19122  csc3; CRISPR-associated protein Csc3
+       K07464  cas4; CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]
+       K19091  cas6; CRISPR-associated endoribonuclease Cas6 [EC:3.1.-.-]
+     Subtype I-E factors
+       K19123  casA, cse1; CRISPR system Cascade subunit CasA
+       K19046  casB, cse2; CRISPR system Cascade subunit CasB
+       K19124  casC, cse4; CRISPR system Cascade subunit CasC
+       K19125  casD, cse5; CRISPR system Cascade subunit CasD
+       K19126  casE, cse3; CRISPR system Cascade subunit CasE
+     Subtype I-F factors
+       K19127  csy1; CRISPR-associated protein Csy1
+       K19128  csy2; CRISPR-associated protein Csy2
+       K19129  csy3; CRISPR-associated protein Csy3
+       K19130  csy4, cas6f; CRISPR-associated endonuclease Csy4 [EC:3.1.-.-]
+     Subtype I-U factors
+       K19131  csb1; CRISPR-associated protein Csb1
+       K19132  csb2; CRISPR-associated protein Csb2
+       K19133  csb3; CRISPR-associated protein Csb3
+       K19134  csx10; CRISPR-associated protein Csx10
+       K19135  csx14; CRISPR-associated protein Csx14
+       K19136  csx17; CRISPR-associated protein Csx17
+   Type II CRISPR-Cas system
+     Type II signiture cas proteins
+       K09952  csn1, cas9; CRISPR-associated endonuclease Csn1 [EC:3.1.-.-]
+     Subtype II-A factors
+       K19137  csn2; CRISPR-associated protein Csn2
+     Subtype II-B factors
+       K07464  cas4; CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]
+   Type III CRISPR-Cas system
+     Type III signiture cas proteins
+       K07016  csm1, cas10; CRISPR-associated protein Csm1
+     Subtype III-A factors
+       K19138  csm2; CRISPR-associated protein Csm2
+       K09002  csm3; CRISPR-associated protein Csm3
+       K19139  csm4; CRISPR-associated protein Csm4
+       K19140  csm5; CRISPR-associated protein Csm5
+     Subtype III-B factors
+       K07061  cmr1; CRISPR-associated protein Cmr1
+       K19076  cmr2, cas10; CRISPR-associated protein Cmr2
+       K09127  cmr3; CRISPR-associated protein Cmr3
+       K09000  cmr4; CRISPR-associated protein Cmr4
+       K19141  cmr5; CRISPR-associated protein Cmr5
+       K19142  cmr6; CRISPR-associated protein Cmr6
+     Subtype III-U factors
+       K19143  csx1; CRISPR-associated protein Csx1
+       K19144  csx3; CRISPR-associated protein Csx3
+       K19145  csx16; CRISPR-associated protein Csx16
+       K19146  csaX; CRISPR-associated protein CsaX
+ 
