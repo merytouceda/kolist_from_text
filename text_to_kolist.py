@@ -17,7 +17,7 @@ def get_args():
     """Get command-line arguments"""
 
     parser = argparse.ArgumentParser(
-        description='Rock the Casbah',
+        description='Extract the KO numbers from KEGG Brite entry',
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
     parser.add_argument('file',
