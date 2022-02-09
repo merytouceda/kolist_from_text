@@ -51,6 +51,8 @@ The script will find all instances of KO number (which takes the format: K#####)
 ### Make sure you input a plain text. This is an example: 
 
 1. Access the KEGG BRITE page for the "09182 Protein families: genetic information processing" system [here](https://www.genome.jp/kegg-bin/get_htext?htext=ko00001.keg&query=K15342). 
+    (you can also download the htext)
 2. Un collapse all the tabs and copy paste the entire list of KO numbers to a text file. Make sure that you are using plain text (you can do so in TextEdit for example by going to the Menu Bar > Format > Make Plain Text)
+
 3. Save the text file.
 
