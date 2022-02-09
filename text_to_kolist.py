@@ -6,7 +6,10 @@ Purpose: Turn a copy paste of a list of KO numbers from a KEGG BRITE entry into 
 """
 
 import argparse
+import sys
 import re
+import numpy as np
+import pandas as pd
 
 
 # --------------------------------------------------
@@ -21,20 +24,41 @@ def get_args():
                         metavar='FILE',
                         type = argparse.FileType('rt'),
                         help='The input text file')
+    
+    parser.add_argument('-o',
+                        '--outfile',
+                        help='Output)',
+                        metavar='FILE',
+                        type=argparse.FileType('wt'),
+                        default=sys.stdout)
 
     return parser.parse_args()
 
 
 # --------------------------------------------------
 def main():
-    """Make a jazz noise here"""
+    """ Find all the instances of the regular expression of the KO number in the file"""
 
     args = get_args()
-    ko_numbers = list()
+    pattern = 'K{1}[0-9]{5}'
+        
+    result = re.findall(pattern, args.file.read()) # extract the konumbers from texg
 
-    for line in args.file.read().split():
-        if line == : ## Use the re to find the KOnumbers
-            ko_numbers.append(line)
+    # the following are conversions to print in correct format
+    result = np.array(result)
+    reshaped = result.reshape(len(result),1)
+    df = pd.DataFrame(reshaped, columns=['konumber'])
+    
+    # this changes printing options to avoid collapse
+    with pd.option_context('display.max_rows', None,
+                       'display.max_columns', None,
+                       'display.precision', 3,
+                       ):
+        print(df, file=args.outfile)
+
+
+
+
 
     
 
