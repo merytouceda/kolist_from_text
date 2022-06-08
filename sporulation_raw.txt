@@ -1,0 +1,81 @@
+K02490  spo0F; two-component system, response regulator, stage 0 sporulation protein F
+        K06375  spo0B; stage 0 sporulation protein B (sporulation initiation phosphotransferase) [EC:2.7.-.-]
+        K07699  spo0A; two-component system, response regulator, stage 0 sporulation protein A
+K08384  spoVD; stage V sporulation protein D (sporulation-specific penicillin-binding protein)
+K12576  SPO12; sporulation-specific protein 12
+K12576  SPO12; sporulation-specific protein 12
+K06383  spoIIGA; stage II sporulation protein GA (sporulation sigma-E factor processing peptidase) [EC:3.4.23.-]
+        K06402  spoIVFB; stage IV sporulation protein FB [EC:3.4.24.-]
+        K06399  spoIVB; stage IV sporulation protein B [EC:3.4.21.116]
+K08384  spoVD; stage V sporulation protein D (sporulation-specific penicillin-binding protein)
+K06283  spoIIID; putative DeoR family transcriptional regulator, stage III sporulation protein D
+        K04769  spoVT; AbrB family transcriptional regulator, stage V sporulation protein T
+K06409  spoVB; stage V sporulation protein B
+K02490  spo0F; two-component system, response regulator, stage 0 sporulation protein F
+        K07699  spo0A; two-component system, response regulator, stage 0 sporulation protein 
+ K06379  spoIIAB; stage II sporulation protein AB (anti-sigma F factor) [EC:2.7.11.1]
+        K06382  spoIIE; stage II sporulation protein E [EC:3.1.3.16]
+
+ K06376  spo0E; stage 0 sporulation regulatory protein
+        K06377  spo0M; sporulation-control protein
+        K06378  spoIIAA; stage II sporulation protein AA (anti-sigma F factor antagonist)
+        K06380  spoIIB; stage II sporulation protein B
+        K06381  spoIID; stage II sporulation protein D
+        K06384  spoIIM; stage II sporulation protein M
+        K06385  spoIIP; stage II sporulation protein P
+        K06386  spoIIQ; stage II sporulation protein Q
+        K06387  spoIIR; stage II sporulation protein R
+        K06388  spoIISA; stage II sporulation protein SA
+        K06389  spoIISB; stage II sporulation protein SB
+        K06390  spoIIIAA; stage III sporulation protein AA
+        K06391  spoIIIAB; stage III sporulation protein AB
+        K06392  spoIIIAC; stage III sporulation protein AC
+        K06393  spoIIIAD; stage III sporulation protein AD
+        K06394  spoIIIAE; stage III sporulation protein AE
+        K06395  spoIIIAF; stage III sporulation protein AF
+        K06396  spoIIIAG; stage III sporulation protein AG
+        K06397  spoIIIAH; stage III sporulation protein AH
+        K06398  spoIVA; stage IV sporulation protein A
+        K06401  spoIVFA; stage IV sporulation protein FA
+        K06403  spoVAA; stage V sporulation protein AA
+        K06404  spoVAB; stage V sporulation protein AB
+        K06405  spoVAC; stage V sporulation protein AC
+        K06406  spoVAD; stage V sporulation protein AD
+        K06407  spoVAE; stage V sporulation protein AE
+        K06408  spoVAF; stage V sporulation protein AF
+        K06412  spoVG; stage V sporulation protein G
+        K06413  spoVK; stage V sporulation protein K
+        K06414  spoVM; stage V sporulation protein M
+        K06415  spoVR; stage V sporulation protein R
+        K06416  spoVS; stage V sporulation protein S
+        K06417  spoVID; stage VI sporulation protein D
+K06379  spoIIAB; stage II sporulation protein AB (anti-sigma F factor) [EC:2.7.11.1]
+K06375  spo0B; stage 0 sporulation protein B (sporulation initiation phosphotransferase) [EC:2.7.-.-]
+ K06382  spoIIE; stage II sporulation protein E [EC:3.1.3.16]
+ K06359  rapA, spo0L; response regulator aspartate phosphatase A (stage 0 sporulation protein L) [EC:3.1.-.-]
+  K06399  spoIVB; stage IV sporulation protein B [EC:3.4.21.116]
+ K06383  spoIIGA; stage II sporulation protein GA (sporulation sigma-E factor processing peptidase) [EC:3.4.23.-]
+      3.4.24  Metalloendopeptidases
+        3.4.24.-
+          K06402  spoIVFB; stage IV sporulation protein FB [EC:3.4.24.-]
+ K06383  spoIIGA; stage II sporulation protein GA (sporulation sigma-E factor processing peptidase) [EC:3.4.23.-]
+  Metallo peptidases
+    Family M50: S2P protease family
+      K06402  spoIVFB; stage IV sporulation protein FB [EC:3.4.24.-]
+  Serine peptidases
+    Family S55: SpoIVB peptidase family
+      K06399  spoIVB; stage IV sporulation protein B [EC:3.4.21.116]
+  K08384  spoVD; stage V sporulation protein D (sporulation-specific penicillin-binding protein)
+
+Transcription factors [BR:ko03000]
+  Prokaryotic type
+    Helix-turn-helix
+      DeoR family
+        K06283  spoIIID; putative DeoR family transcriptional regulator, stage III sporulation protein D
+    Other transcription factors
+      Others
+        K04769  spoVT; AbrB family transcriptional regulator, stage V sporulation protein T
+ K06409  spoVB; stage V sporulation protein B
+ K02490  spo0F; two-component system, response regulator, stage 0 sporulation protein F
+      K07699  spo0A; two-component system, response regulator, stage 0 sporulation protein A
+
